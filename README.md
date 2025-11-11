@@ -201,15 +201,6 @@ These examples highlight the fundamental limitation of rule-based systems:
 3. **Context Blindness**: Treats every query the same way regardless of what's actually being asked
 4. **Poor User Experience**: Users get frustrated when simple questions aren't answered correctly
 
-### Why This Difference Matters
-
-These examples highlight the fundamental limitation of rule-based systems:
-
-1. **Literal Pattern Matching**: Rule-based systems can only find predefined patterns, not understand intent
-2. **No Analytical Capability**: Cannot perform calculations, comparisons, or data analysis
-3. **Context Blindness**: Treats every query the same way regardless of what's actually being asked
-4. **Poor User Experience**: Users get frustrated when simple questions aren't answered correctly
-
 The AI-powered system succeeds because:
 
 1. **Intent Recognition**: Understands what the user is really asking for
